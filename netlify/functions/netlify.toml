@@ -1,0 +1,13 @@
+[functions]
+  directory = "netlify/functions"
+```
+
+Save this file as `netlify.toml`.
+
+Your folder should now look like this:
+```
+punch-list-handler/
+  netlify.toml
+  netlify/
+    functions/
+      submit.js
